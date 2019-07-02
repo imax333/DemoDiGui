@@ -27,4 +27,5 @@ public class DiGuiDemo {
 		System.out.println("hello ");
 	}
 
+	public void test(){}
 }
