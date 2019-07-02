@@ -8,6 +8,7 @@ public class DiGuiDemo {
 		System.out.println("  阶乘为 :" + diGui);
 		System.out.println("this  is test 1 ");
 		System.out.println("this is test 2 ");
+		System.out.println("this is test 3 ");
 	}
 
 	public static int DiGui(int num) {
@@ -26,4 +27,5 @@ public class DiGuiDemo {
 		System.out.println("hello ");
 	}
 
+	public void test(){}
 }
