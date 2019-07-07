@@ -14,6 +14,12 @@ public class Value {
 		System.out.println("3 "+person);
 		System.out.println("name is :" + person.getName() +", id is :" + person.getId());
 
+		/**
+		 * 1 com.atpingan.Person@7852e922
+			2 com.atpingan.Person@7852e922
+			3 com.atpingan.Person@7852e922
+			name is :MQ, id is :001
+		 */
 	}
 	
 	
